@@ -12,6 +12,77 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 /* CLASSES GENERICAS
 ======================================================== */
 
+	/* display */
+	.display-none { display: none; }
+	.display-inline { display: inline; }
+	.display-inline-block { display: inline-block; }
+
+	/* text-align */
+	.text-left { text-align: left; }
+	.text-right { text-align: right; }
+	.text-center { text-align: center; }
+
+	/* float */
+	.float-right { float: right; }
+	.float-left { float: left; }
+	.clear { clear: both; }
+
+	/* largura */
+	.w50 { width: 50px }
+	.w100 { width: 100px }
+	.w150 { width: 150px }
+	.w200 { width: 200px }
+	.w250 { width: 250px }
+	.w300 { width: 300px }
+	.w350 { width: 350px }
+	.w400 { width: 400px }
+	.w450 { width: 450px }
+	.w500 { width: 500px }
+	.w550 { width: 550px }
+	.w600 { width: 600px }
+	.w650 { width: 650px }
+	.w700 { width: 700px }
+	.w750 { width: 750px }
+	.w800 { width: 800px }
+	.w850 { width: 850px }
+	.w900 { width: 900px }
+	.w950 { width: 950px }
+
+	/* margins */
+	.mar10 { margin: 10px; }
+	.mar20 { margin: 20px; }
+	.mar30 { margin: 30px; }
+	.mar10t { margin-top: 10px; }
+	.mar20t { margin-top: 20px; }
+	.mar30t { margin-top: 30px; }
+	.mar10r { margin-right: 10px; }
+	.mar20r { margin-right: 20px; }
+	.mar30r { margin-right: 30px; }
+	.mar10b { margin-bottom: 10px; }
+	.mar20b { margin-bottom: 20px; }
+	.mar30b { margin-bottom: 30px; }
+	.mar10l { margin-left: 10px; }
+	.mar20l { margin-left: 20px; }
+	.mar30l { margin-left: 30px; }
+
+	/* paddings */
+	.pad10 { padding: 10px; }
+	.pad20 { padding: 20px; }
+	.pad30 { padding: 30px; }
+	.pad10t { padding-top: 10px; }
+	.pad20t { padding-top: 20px; }
+	.pad30t { padding-top: 30px; }
+	.pad10r { padding-right: 10px; }
+	.pad20r { padding-right: 20px; }
+	.pad30r { padding-right: 30px; }
+	.pad10b { padding-bottom: 10px; }
+	.pad20b { padding-bottom: 20px; }
+	.pad30b { padding-bottom: 30px; }
+	.pad10l { padding-left: 10px; }
+	.pad20l { padding-left: 20px; }
+	.pad30l { padding-left: 30px; }
+
+
 
 
 /* CLEARFIX FLOAT
